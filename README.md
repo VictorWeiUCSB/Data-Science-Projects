@@ -48,5 +48,5 @@ You can clone this repository to view and run the projects on your local machine
 Feel free to fork this repository, contribute to the projects, or provide feedback. Your input is highly appreciated!
 
 ## Contact
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/victor-wei-2022/)https://www.linkedin.com/in/victor-wei-2022/
+- Email: victorwei0916@gmail.com
